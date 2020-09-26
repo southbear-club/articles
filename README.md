@@ -1,5 +1,7 @@
 # 南极熊club
 
+**在南极写代码的北极熊—南极熊。**
+
 **专注分享创作软件编程专业技术文章。芜湖，起飞** :rocket::rocket::rocket:
 
 **肝肝肝**:panda_face::panda_face::panda_face:
